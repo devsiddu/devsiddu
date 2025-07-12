@@ -1,13 +1,14 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://spirestack.vercel.app)
 <h1 align="center">Hi 👋, I'm Siddappa</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">MERN Stack Developer | Passionate about Open Source & Clean Code | Building projects to solve real-world problems 🌍
+</h3>
 <img align="right" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsiddu&label=Profile%20views&color=0e75b6&style=flat" alt="devsiddu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dev_siddu" target="blank"><img src="https://img.shields.io/twitter/follow/dev_siddu?logo=twitter&style=for-the-badge" alt="dev_siddu" /></a> </p>
 
-- 🔭 I’m currently working on **Formers Helper**
+- 🔭 I’m currently working on **Library Management**
 
 - 🌱 I’m currently learning **Node js**
 

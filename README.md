@@ -2,13 +2,9 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=16&section=header&reversal=false&text=Hey%20%F0%9F%91%8B%20I'm%20Siddu&fontSize=17&fontColor=FFFFFF&fontAlign=8&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
 </div>
 
-
-
 <img align="right" height="154" src="https://cdn.dribbble.com/userupload/23379424/file/original-50d3ae73eb06aa464eee78018d0555bf.gif"  />
 
-
-<h5 align="left">🔭 I’m currently working on Library Management<br>🌱 I’m currently learning Node js<br>👨‍💻 All of my projects are available at https://spirestack.vercel.app<br>💬 Ask me about MERN, WEB<br>📫 How to reach me user.codespire@gmail.com<br>📄 Know about my experiences https://spirestack.vercel.app</h5>
-
+<h5 align="left">🔭 I’m currently working on Farmers Cafe<br>🌱 I’m currently learning Sping Boot<br>👨‍💻 All of my projects are available at https://spirestack.vercel.app<br>💬 Ask me about MERN, WEB<br>📫 How to reach me user.codespire@gmail.com<br>📄 Know about my experiences https://spirestack.vercel.app</h5>
 
 <h2 align="left">Skills</h2>
 
@@ -27,7 +23,6 @@
 </div>
 
 <p align="left">Frameworks</p>
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo"  />
@@ -65,9 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
 </div>
 
-
 <p align="left">Databases</p>
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" alt="mongodb logo"  />
@@ -110,8 +103,8 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 ###
+
 <div align="center">
   <img src="https://github-readme-stats-seven-wheat-12.vercel.app/api?username=devsiddu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-seven-wheat-12.vercel.app/api/top-langs?username=devsiddu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-

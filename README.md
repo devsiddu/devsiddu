@@ -95,13 +95,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2026 - To: 23 February 2026
+From: 25 January 2026 - To: 24 February 2026
 
-PHP               28 hrs 47 mins        █████████▓░░░░░░░░░░░░░░░   38.79 %
-Java              26 hrs 24 mins        █████████░░░░░░░░░░░░░░░░   35.57 %
-JavaScript        5 hrs 54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-TypeScript        5 hrs 25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Java Properties   2 hrs 30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+PHP               28 hrs 47 mins        █████████░░░░░░░░░░░░░░░░   36.18 %
+Java              26 hrs 24 mins        ████████▒░░░░░░░░░░░░░░░░   33.18 %
+TypeScript        10 hrs 45 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
+JavaScript        5 hrs 56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Java Properties   2 hrs 30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 ```
 
 <!--END_SECTION:waka-->

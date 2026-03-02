@@ -7,7 +7,7 @@ Building purposeful software, one commit at a time.
 
 </div>
 
----
+
 
 ### Activity
 

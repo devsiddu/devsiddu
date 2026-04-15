@@ -16,13 +16,13 @@ Building purposeful software, one commit at a time.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 March 2026 - To: 12 April 2026
+From: 14 March 2026 - To: 13 April 2026
 
-PHP              85 hrs 34 mins        ████████████████████▒░░░░   80.75 %
-TypeScript       7 hrs 23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-JavaScript       6 hrs 58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-Blade Template   2 hrs 53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Other            39 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+PHP              85 hrs 19 mins        ███████████████████▓░░░░░   78.57 %
+JavaScript       6 hrs 58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Python           5 hrs 21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+TypeScript       4 hrs 24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Blade Template   2 hrs 53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->

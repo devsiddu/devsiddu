@@ -16,12 +16,12 @@ Building purposeful software, one commit at a time.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 April 2026 - To: 15 May 2026
+From: 17 April 2026 - To: 17 May 2026
 
-PHP           79 hrs 36 mins        ██████████████████████▓░░   91.01 %
-JavaScript    5 hrs 2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-Bash          59 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Other         45 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+PHP           71 hrs 56 mins        ██████████████████████▓░░   90.92 %
+JavaScript    4 hrs 54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Bash          59 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Other         35 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->

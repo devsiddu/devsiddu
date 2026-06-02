@@ -16,7 +16,7 @@ Building purposeful software, one commit at a time.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2026 - To: 30 May 2026
+From: 01 May 2026 - To: 31 May 2026
 
 PHP             63 hrs 2 mins         █████████████████████▓░░░   86.90 %
 JavaScript      5 hrs 52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %

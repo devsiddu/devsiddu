@@ -16,13 +16,13 @@ Building purposeful software, one commit at a time.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2026 - To: 04 September 2026
+From: 06 August 2026 - To: 05 September 2026
 
-PHP           70 hrs 13 mins        █████████████████▓░░░░░░░   70.65 %
-JavaScript    27 hrs 24 mins        ███████░░░░░░░░░░░░░░░░░░   27.57 %
-Image (svg)   42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-CSS           36 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-TypeScript    20 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+PHP           71 hrs 52 mins        ██████████████████▓░░░░░░   74.03 %
+JavaScript    23 hrs 28 mins        ██████░░░░░░░░░░░░░░░░░░░   24.18 %
+Image (svg)   42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+CSS           36 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Bash          19 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->

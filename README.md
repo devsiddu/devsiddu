@@ -2,11 +2,13 @@
   <img src="./banner.svg" alt="Siddu Mokhasi — Software Engineer, Gokak" width="100%" />
 </p>
 
-## Hi, I'm Siddu
-
-Software Engineer at Gokak Textiles, building practical web apps across PHP, MERN, and Python.
-
+<h2 style='font-family: ui-serif, Georgia, "Times New Roman", serif; font-weight: 500; letter-spacing: -0.02em; fill: #f0f6fc;'>Hi, I'm Siddu</h2>
+<p style='font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-weight: 400; letter-spacing: 0.02em; fill: #8b949e; '>
+Software Engineer at Gokak Textiles, building practical web apps across PHP And MERN.
+</p>
+<p style='font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-weight: 400; letter-spacing: 0.02em; fill: #8b949e; '>
 Currently shipping internal tools and side projects that solve real problems.
+</p>
 
 ## Selected Work
 
@@ -18,11 +20,6 @@ Currently shipping internal tools and side projects that solve real problems.
 
 PHP · React · TypeScript · Node.js · Python · MongoDB · SQL Server · Tailwind
 
-## Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=devsiddu&show_icons=true&hide_border=true&hide=contribs&count_private=true&theme=dark&bg_color=0D1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&ring_color=8b949e" alt="devsiddu GitHub stats" />
-</p>
 
 ---
 

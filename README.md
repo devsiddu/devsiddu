@@ -24,5 +24,5 @@ PHP · React · TypeScript · Node.js · Python · MongoDB · SQL Server · Tail
 ---
 
 <p align="center">
-  <a href="https://spirestack.vercel.app">Portfolio</a> · <a href="mailto:user.codespire@gmail.com">Email</a> · <a href="www.linkedin.com/in/siddudev">LinkedIn</a>
+  <a href="https://spirestack.vercel.app">Portfolio</a> · <a href="mailto:user.codespire@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/siddudev">LinkedIn</a>
 </p>

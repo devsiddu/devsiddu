@@ -1,22 +1,77 @@
-<p align="center">
-  <img src="./banner.svg" alt="Siddu Mokhasi — Software Engineer, Gokak" width="100%" />
-</p>
+```ts
+class About extends Me {
+  getName() {
+    return {
+      name: "Siddu Mokhasi",
+      github: "devsiddu",
+      location: "Gokak, Karnataka, India",
+    };
+  }
 
-<h2 align="center">Hi, I'm Siddu 👋</h2>
+  getCurrentWorkplace() {
+    return {
+      workplace: {
+        company: "Gokak Textiles Ltd",
+        position: "Software Engineer",
+        since: "Aug 2025",
+      },
+    };
+  }
 
-<p align="center">
-  <code>Software Engineer @ Gokak Textiles Ltd</code><br />
-  <sub>Building reliable, scalable web and business applications.</sub>
-</p>
+  getSummary() {
+    return "I build reliable, scalable web and business applications.";
+  }
 
-<p align="center">
-  <a href="https://spirestack.vercel.app">Portfolio</a> &nbsp;·&nbsp;
-  <a href="mailto:user.codespire@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/siddudev">LinkedIn</a>
-</p>
+  getWhatIBuild() {
+    return [
+      "Enterprise Applications",
+      "Full-Stack Applications",
+      "Database Systems",
+      "Mobile Applications",
+    ];
+  }
 
-<p align="center"><img src="./about.svg" alt="About Me" width="100%" /></p>
-<p align="center"><img src="./experience.svg" alt="Experience: Software Engineer, Gokak Textiles Ltd, Aug 2025 to present" width="100%" /></p>
-<p align="center"><img src="./skills.svg" alt="Technical Skills" width="100%" /></p>
-<p align="center"><img src="./build.svg" alt="What I Build" width="100%" /></p>
-<p align="center"><img src="./work.svg" alt="Selected work: GEPMS, Smart Attendance, Farmers Cafe" width="100%" /></p>
+  getDailyKnowledge() {
+    return {
+      languages: ["Java", "JavaScript", "PHP", "Python", "C", "C#"],
+      frontend: ["React", "HTML", "CSS", "Bootstrap", "Tailwind CSS"],
+      backend: ["PHP", "Java", "Node.js", "REST APIs"],
+      databases: ["SQL Server", "MySQL", "MongoDB", "Oracle"],
+      mobile: ["React Native", "Android"],
+      tools: ["Git", "GitHub", "VS Code", "Eclipse", "NetBeans", "Figma"],
+    };
+  }
+
+  getProjects() {
+    return [
+      {
+        name: "GEPMS",
+        about: "Power generation and sales entry/management system",
+        status: "Production, used daily at Gokak Textiles",
+      },
+      {
+        name: "Smart Attendance + Payroll",
+        about: "PHP attendance system with integrated payroll",
+        repo: "github.com/devsiddu/smart-attendence-php",
+      },
+      {
+        name: "Farmers Cafe",
+        about:
+          "Agricultural e-commerce with shop switching and approval workflows",
+      },
+    ];
+  }
+
+  getContact() {
+    return {
+      portfolio: "https://spirestack.vercel.app",
+      email: "user.codespire@gmail.com",
+      linkedin: "https://www.linkedin.com/in/siddudev",
+    };
+  }
+
+  getFutureGoal() {
+    return "To keep building practical software that solves real problems.";
+  }
+}
+```

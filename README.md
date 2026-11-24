@@ -17,17 +17,17 @@
 </p>
 
 <p align="center">
-  <img src="./assets/terminal.svg" alt="Terminal: Siddu Mokhasi, Software Engineer" width="100%" />
+  <img src="./terminal.svg" alt="Terminal: Siddu Mokhasi, Software Engineer" width="100%" />
 </p>
 
 ## Selected Work
 
 <p align="center">
-  <img src="./assets/work.svg" alt="Selected work: GEPMS, Smart Attendance, Farmers Cafe" width="100%" />
+  <img src="./work.svg" alt="Selected work: GEPMS, Smart Attendance, Farmers Cafe" width="100%" />
 </p>
 
 ## Stack
 
 <p align="center">
-  <img src="./assets/stack.svg" alt="PHP, React, TypeScript, Node.js, Python, MongoDB, SQL Server, Tailwind" width="100%" />
+  <img src="./stack.svg" alt="PHP, React, TypeScript, Node.js, Python, MongoDB, SQL Server, Tailwind" width="100%" />
 </p>

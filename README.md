@@ -1,4 +1,4 @@
-```ts
+```js
 class About extends Me {
   getName() {
     return {

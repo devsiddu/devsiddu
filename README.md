@@ -2,27 +2,32 @@
   <img src="./banner.svg" alt="Siddu Mokhasi — Software Engineer, Gokak" width="100%" />
 </p>
 
-<h2 style='font-family: ui-serif, Georgia, "Times New Roman", serif; font-weight: 500; letter-spacing: -0.02em; fill: #f0f6fc;'>Hi, I'm Siddu</h2>
-<p style='font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-weight: 400; letter-spacing: 0.02em; fill: #8b949e; '>
-Software Engineer at Gokak Textiles, building practical web apps across PHP And MERN.
+<h2 align="center">Hi, I'm Siddu 👋</h2>
+
+<p align="center">
+  <code>Software Engineer @ Gokak Textiles</code><br />
+  <sub>Building practical web apps across PHP and MERN.</sub>
 </p>
-<p style='font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-weight: 400; letter-spacing: 0.02em; fill: #8b949e; '>
-Currently shipping internal tools and side projects that solve real problems.
+
+<p align="center">
+  <a href="https://spirestack.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="mailto:user.codespire@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/siddudev">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/devsiddu/smart-attendence-php">Smart Attendance</a>
+</p>
+
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Terminal: Siddu Mokhasi, Software Engineer" width="100%" />
 </p>
 
 ## Selected Work
 
-- **GEPMS** — Power generation and sales entry/management system built for Gokak Textiles. Production, in daily use.
-- **Smart Attendance + Payroll** — PHP-based attendance system with integrated payroll. [repo](https://github.com/devsiddu/smart-attendence-php)
-- **Farmers Cafe** — Agricultural e-commerce platform with shop switching, product management, and approval workflows.
+<p align="center">
+  <img src="./assets/work.svg" alt="Selected work: GEPMS, Smart Attendance, Farmers Cafe" width="100%" />
+</p>
 
 ## Stack
 
-PHP · React · TypeScript · Node.js · Python · MongoDB · SQL Server · Tailwind
-
-
----
-
 <p align="center">
-  <a href="https://spirestack.vercel.app">Portfolio</a> · <a href="mailto:user.codespire@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/siddudev">LinkedIn</a>
+  <img src="./assets/stack.svg" alt="PHP, React, TypeScript, Node.js, Python, MongoDB, SQL Server, Tailwind" width="100%" />
 </p>
